@@ -1,0 +1,47 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-image: url("https://w.forfun.com/fetch/36/369f0699ffab96f2d239e0741408d476.jpeg");
+    height: 100%; 
+
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cove
+}
+#fruitesList{
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-evenly;
+    text-align: center;
+}
+button{
+    padding: 10px 10px 10px 10px;
+    padding: 5px;
+    margin-bottom: 10px;
+    font-family: 'Bebas Neue';
+    font-size: 18px;
+    background-color: rgb(255, 123, 0);
+    border: 3px solid gray;
+    color: rgb(0, 0, 0);
+}
+
+p{
+    background-color: black;
+    color: antiquewhite;
+    padding: 5px;
+    font-size: x-large;
+    font-family: 'Bebas Neue';
+}
+h1{
+    text-align: center;
+    margin-bottom: 15px;
+}
+
+.main{
+    padding: 5px;
+}
