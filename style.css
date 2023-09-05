@@ -36,6 +36,7 @@ p{
     padding: 5px;
     font-size: x-large;
     font-family: 'Bebas Neue';
+    margin-bottom: 20px;
 }
 h1{
     text-align: center;
@@ -45,10 +46,6 @@ h1{
 .main{
     padding: 5px;
 }
-<<<<<<< HEAD
-
-=======
->>>>>>> 20665d92885d58b137a4ec7840e8329875b33cb2
 a{
     color: black;
     text-decoration: none;
@@ -74,8 +71,4 @@ a{
 a:hover{
     color: #bdaf37;
     text-decoration: none;
-<<<<<<< HEAD
 }
-=======
-}
->>>>>>> 20665d92885d58b137a4ec7840e8329875b33cb2
