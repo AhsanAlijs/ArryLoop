@@ -36,7 +36,7 @@ p{
     padding: 5px;
     font-size: x-large;
     font-family: 'Bebas Neue';
-    margin-bottom: 20px;
+    
 }
 h1{
     text-align: center;
@@ -45,6 +45,7 @@ h1{
 
 .main{
     padding: 5px;
+    margin-bottom: 30px;
 }
 a{
     color: black;
