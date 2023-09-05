@@ -45,3 +45,30 @@ h1{
 .main{
     padding: 5px;
 }
+
+a{
+    color: black;
+    text-decoration: none;
+}
+
+.footer{
+    position: fixed;
+    margin-top: 10px;
+    padding: 10px;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: rgb(27, 22, 22);
+    color: white;
+    text-align: center;
+    font-family: 'Black Ops One';
+    font-size: 25px;
+}
+a{
+    color: #fdfdfd;
+    text-decoration: none;
+}
+a:hover{
+    color: #bdaf37;
+    text-decoration: none;
+}
