@@ -12,15 +12,9 @@ const reviewArry = [
 for(let i = 0; i<fruitesArry.length;i++){
     // console.log(fruitesArry[i]);
     fruitStore.innerHTML+=`<button onclick="show(${i})">${fruitesArry[i]}</button><br>`
-
-//     for(let j = 0; j<reviewArry.length;j++){
-//     // console.log(reviewArry[j]);
-
-// }
 }
-
 function show(i){
-    console.log(`${fruitesArry[i]} ${reviewArry[i]}`)
+    // console.log(`${fruitesArry[i]} ${reviewArry[i]}`)
 
     p.innerHTML+=`<li>${fruitesArry[i]} ${reviewArry[i]}</li><br>`
 
